@@ -4,9 +4,9 @@ To work with data from back-end you should run:
 
 ### `npm start`
 
-While being located in server root\
+While being located in server root
 
-Then the same script while being located in client root\
+Then the same script while being located in client root
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
